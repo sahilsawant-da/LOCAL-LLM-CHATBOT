@@ -2,6 +2,7 @@
 
 ## 🚀 Description
 This project provides a simple Streamlit-based chat interface to interact with a locally hosted LLM using [Ollama](https://ollama.com). It supports streaming responses and maintains chat history using `st.session_state`.
+It is a lightweight, interactive chatbot interface built with Streamlit that connects to a locally hosted LLM via Ollama. It allows users to chat with models like gemma3:1b directly on their machine, ensuring privacy, speed, and full control over the model.
 
 ## 🛠️ Features
 - Chat interface with markdown support
